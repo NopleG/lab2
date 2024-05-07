@@ -1,0 +1,3 @@
+[submodule "modul"]
+	path = modul
+	url = https://github.com/NopleG/modul
